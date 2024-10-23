@@ -1,4 +1,4 @@
-## Image To PDF
+# Image To PDF
 ## Description
 This application creates a PDF file from PNG or JPG files.
 
