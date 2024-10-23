@@ -1,2 +1,17 @@
 # ignore pychache files
 scripts/__pycache__/
+
+# ignore build files
+build/
+
+# ignore dist files
+dist/
+
+# ignore egg-info files
+*.egg-info/
+
+# ignore spec files
+*.spec
+
+# ignore venv
+venv/
